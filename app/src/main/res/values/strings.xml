@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">inputControl</string>
+    <string name="empty" />
+    <string name="no_handphone_mandatory">No. Handphone <font color='#f44336'>*</font></string>
 </resources>
