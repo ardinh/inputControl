@@ -23,10 +23,9 @@
             android:id="@+id/tv_label"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:textColorHint="@color/grey_100"
+            android:textColorHint="@color/blue_80"
             android:textSize="11sp"
-            android:visibility="gone"
-            android:textColor="@color/grey_100"
+            android:textColor="@color/blue_80"
             app:layout_constraintStart_toEndOf="@id/ic_start"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintEnd_toStartOf="@id/ic_end"/>
